@@ -1,7 +1,7 @@
 {
-  "name": "package.json",
+  "name": "npm-lab",
   "version": "1.0.0",
-  "description": "test",
+  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jparker0190/npm-lab-v-000.git"
+    "url": "git+https://github.com/learn-co-curriculum/npm-lab.git"
   },
-  "author": "",
+  "author": "Choux Maru and Doge",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jparker0190/npm-lab-v-000/issues"
+    "url": "https://github.com/learn-co-curriculum/npm-lab/issues"
   },
-  "homepage": "https://github.com/jparker0190/npm-lab-v-000#readme",
+  "homepage": "https://github.com/learn-co-curriculum/npm-lab#readme",
   "dependencies": {
     "learn-browser": "^0.1.17",
     "moment": "^2.22.2"
